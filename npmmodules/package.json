@@ -1,0 +1,14 @@
+{
+  "name": "npmmodules",
+  "version": "1.0.0",
+  "description": "Basics of NPM Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arihant Jain",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
+}

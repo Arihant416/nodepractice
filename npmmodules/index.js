@@ -1,2 +1,2 @@
 const chalk = require('chalk');
-console.log(chalk.black.bgGreen('Success'));
+console.log(chalk.black.bgRed('Error'));
